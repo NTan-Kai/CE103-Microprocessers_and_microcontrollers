@@ -1,4 +1,3 @@
-````markdown
 # Microprocessors and Microcontrollers
 
 This repository contains laboratory exercises, source code, simulation files, reports, and final project materials for the **Microprocessors and Microcontrollers** course.
@@ -213,4 +212,4 @@ University of Information Technology – VNUHCM
 ## License
 
 This repository is created for academic and educational purposes.
-````
+
