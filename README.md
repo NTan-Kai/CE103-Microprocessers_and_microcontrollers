@@ -1,3 +1,4 @@
+````markdown
 # Microprocessors and Microcontrollers
 
 This repository contains laboratory exercises, source code, simulation files, reports, and final project materials for the **Microprocessors and Microcontrollers** course.
@@ -23,6 +24,7 @@ The coursework covers the **8086 microprocessor**, the **8051 microcontroller fa
 
 ## Repository Structure
 
+```text
 CE103-Microprocessors-and-Microcontrollers/
 │
 ├── README.md
@@ -47,6 +49,7 @@ CE103-Microprocessors-and-Microcontrollers/
 │
 └── Final_Project/
     └── Smart Door Lock System Using 8051 MCU, RFID and SD Card Storage
+```
 
 ---
 
