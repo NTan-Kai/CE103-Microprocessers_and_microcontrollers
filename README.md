@@ -15,7 +15,7 @@ The coursework covers the **8086 microprocessor**, the **8051 microcontroller fa
 | Course | Microprocessors and Microcontrollers |
 | Vietnamese Name | Vi xử lý - Vi điều khiển |
 | Course Code | CE103 |
-| Class Code | CE103.P21 |
+| Class Code | CE103.Q24 |
 | Semester | Semester II, 2025–2026 |
 | Instructor | The Tung Than |
 
